@@ -1,7 +1,3 @@
-"""
-Enemy wave patterns available to the AI.
-These are templates that get slightly modified to avoid repetition.
-"""
 
 WAVE_PATTERNS = {
     "balanced": ["grunt", "grunt", "fast", "grunt"],

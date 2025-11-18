@@ -1,7 +1,3 @@
-"""
-Defines all enemy type configs used in the game.
-This is a data-driven approach so balancing is easy.
-"""
 
 ENEMY_TYPES = {
     "grunt":   {"cost": 5,  "speed": 80,  "hp": 60},

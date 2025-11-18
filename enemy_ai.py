@@ -1,12 +1,4 @@
-"""
-Tower Defense Enemy AI (Normal Difficulty)
 
-Features:
-- Finite State Machine: early, mid, late game behavior
-- Strategy selection: balanced, swarm, tank push, fast rush, etc.
-- Weighted/random monster selection
-- Light adaptation depending on player's tower types
-"""
 
 import random
 import time
